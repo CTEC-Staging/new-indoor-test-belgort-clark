@@ -1,4 +1,4 @@
 # bruce elgort
 
 stuff = input("").lower()
-print("stuff")
+print(stuff)
